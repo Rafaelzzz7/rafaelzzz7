@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rafaelzzz7.rafaelzzz7" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Rafaelzzz7;+I'm+rafaelzzz7!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Rafaelzzz7;+Eu+sou+Rafaelzzz7!;" />
 </h1>
 
 <h3 align="center">A passionate frontend and backend developer 🚀</h3>
