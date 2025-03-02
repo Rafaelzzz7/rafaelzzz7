@@ -12,7 +12,7 @@
   
  🌱 Estou aprendendo **Docker, **
 
- 💬 Me pergunte sobre **Node.js, React, Swift, ... ou qualquer coisa [aqui](https://github.com/rafaelzzz7/rafaelzzz7/issues)**
+ 💬 Me pergunte sobre **Node.js, React, Swift, ... 
 
 </div>
 
